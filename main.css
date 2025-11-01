@@ -6,6 +6,11 @@ body {
   color: #333;
 }
 
+header {
+  margin: 50px;
+  padding: 150px;
+}
+
 /* Navbar */
 .navbar {
   display: flex;
